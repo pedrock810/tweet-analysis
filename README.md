@@ -1,4 +1,4 @@
-# Análise de Tweets da Conferência Nintendo
+# Análise de Tweets da Conferência Nintendo - Python
 
 - [Versão em Português](#versão-em-português)
 - [English Version](#english-version)
